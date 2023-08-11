@@ -12,12 +12,11 @@ const About = () => {
         <div className="flex-[0.8] p-8">
           <p className={styles.sectionSubText}>About Me</p>
           
-          <h2 className={`${styles.sectionHeadText}`}>Hi, I'm <span className="text-[#915eff]">Hodan</span></h2>
+          <h2 className={`${styles.sectionHeadText}`}>Hi, I'm <span className="text-[#915eff]">Wen Charles</span></h2>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I have strong organisational, interpersonal and time management skills Ability to deal with pressure and 
-            emotionally charged situations            
+            Results-driven Senior Software Engineer and Support Engineer with over 5 years of experience            
             <br className="sm:block hidden" />
-            Fluent in four languages
+            Full Stack Engineer
           </p>
         </div>
         <div className="xl:flex xl:h-auto md:h-[550px] h-[350px]">

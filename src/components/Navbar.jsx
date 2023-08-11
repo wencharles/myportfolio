@@ -25,8 +25,8 @@ const Navbar = () => {
           }}
         >
           <p className='text-white text-[180x] font-bold cursor-pointer flex'>
-            Hodan &nbsp; 
-            <span className='sm:block hidden'>Ibrahim</span>
+            Wen &nbsp; 
+            <span className='sm:block hidden'>Charles</span>
           </p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
