@@ -14,7 +14,7 @@ const About = () => {
           
           <h2 className={`${styles.sectionHeadText}`}>Hi, I'm <span className="text-[#915eff]">Wen Charles</span></h2>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Results-driven Senior Software Engineer and Support Engineer with over 5 years of experience            
+            Results-driven Senior Software Engineer and Support Engineer with over 3 years of experience            
             <br className="sm:block hidden" />
             Full Stack Engineer
           </p>
