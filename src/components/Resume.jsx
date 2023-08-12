@@ -16,8 +16,10 @@ const Resume = () => {
           className="mt-3 text-secondary text-[17px]  loading-[30px]"
         >
           <h2 className={styles.sectionHeadText}>Resume</h2>
-          <p className="py-2 text-white p-2">
-          Welcome to my portfolio website. In this section, you can explore my professional background and qualifications through my resume. Get a comprehensive overview of my skills, experience, and educational achievements. Discover how my expertise aligns with your needs and how I can contribute to your projects. Take a closer look at my work history, education, skills, certifications, and notable projects. Feel free to download or print a copy of my resume for a more detailed review. 
+          <p className="py-2 text-white p-2">Proven ability to deliver innovative solutions and lead
+            cross-functional teams. Adept in Python, Django, Java, Spring boot, React, React Native, Redis, PostgreSQL,
+            Firebase, Docker and micro services. Strong background in providing customer support, troubleshooting and
+            resolving system-related issues. Committed to continuous learning and professional development.
           </p>
 
           <a

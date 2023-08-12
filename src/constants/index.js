@@ -4,10 +4,10 @@
   import jobit from "../assets/jobit.png"
   import passwordgen from '../assets/passwordgen.png';
   import employee from '../assets/employee.png';
-  import restaurant from '../assets/restaurant.png';
-  import horrison from '../assets/horrison.jpeg';
-  import note from '../assets/note.jpeg';
-  import socio from '../assets/socio.png';
+  import cbanking from '../assets/cbanking.png';
+  import dukabit from '../assets/dukabit.png';
+  import sgr from '../assets/sgr.jpg';
+  import sbk from '../assets/sbk.png';
   
   export const navLinks = [
     {
@@ -39,21 +39,21 @@
         "Implemented real time directional train monitoring using GPS, Point in polygon to triangulate and monitor train locations to up to 10 meters.",
         "Liaised with the front end team in developing the dispatch tracking and monitoring interface using react and leaflet JS for generating of train movement and locations graphics.",
       ],
-      link: "https://github.com/Ze7Hu/Restaurant-Finder-App",
-      live: "https://ze7hu.github.io/Restaurant-Finder-App/",
-      image: restaurant,
+      link: "#",
+      live: "#",
+      image: sgr,
     },
     {
       title: "TARIDI BANKING",
       tech: "PYTHON DJANGO",
       points: [
-        "Modifying starter code to create an application that enables employees to genrate random passwords. The generate password button will activate a number of prompts when clicked.",
-        "Prompts will inform the users about the required password standard e.g. length and character types. Should the users input be invalid, an alert will pop up clarifying the reason why and request the user to start over.",
-        "Once all prompts are addressed and the chosen password matches the required standard, the password will be displayed on the page.",
+        "Developed Taridi Banking System including its wallet system.",
+        "Developed the transaction System, ensuring Atomic transactions that are secure and enforce balanced double entries.",
+        "Developed the Maker checker system, ensuring actions are user attributable.",
       ],
-      link: "https://github.com/Ze7Hu/Password-Generator",
-      live: "https://ze7hu.github.io/Restaurant-Finder-App/",
-      image: passwordgen,
+      link: "https://github.com/wencharles/cbanking",
+      live: "#",
+      image: cbanking,
     },
     {
       title: "DUKABIT",
@@ -65,20 +65,20 @@
         "Implemented email and google auth for authentication, with the options to add other auth providers."
 
       ],
-      link: "https://github.com/Ze7Hu/Horriseon-refactoring",
-      live: "https://ze7hu.github.io/Restaurant-Finder-App/",
-      image: horrison,
+      link: "#",
+      live: "#",
+      image: dukabit,
     },
     {
       title: "SBK Blaze",
       tech: "React Native, Firebase, Tailwind",
       points: [
         "An app for SBK members to showcase information that they can use",
-        "This commandline allow businness owners to view and manage the departments, roles and eployees in their company so that they can better organise and plan their business.",
+        "The app can be used to view events that are past and upcoming",
       ],
-      link: "https://github.com/Ze7Hu/Employee-Tracker",
-      live: "https://ze7hu.github.io/Restaurant-Finder-App/",
-      image: employee,
+      link: "#",
+      live: "#",
+      image: sbk,
     },
     // {
     //   title: "SocioSinergy",
